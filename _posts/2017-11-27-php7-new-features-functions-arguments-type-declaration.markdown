@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "PHP7新特性系列 - 标量类型声明"
+title:      "《PHP7新特性系列》之标量类型声明"
 subtitle:   "来学习PHP7吧~"
 date:       2017-11-27 15:00:00
 author:     "伍源辉"
