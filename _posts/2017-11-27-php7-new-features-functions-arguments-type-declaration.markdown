@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      "PHP7新特性系列 - 标量类型声明"
+subtitle:   "来学习PHP7吧~"
+date:       2017-11-27 15:00:00
+author:     "伍源辉"
+header-img: "img/2017-11-26.jpg"
+tags:
+    - PHP7
+    - 新特性
+    - 标量类型声明
+    - new features
+---
+
 ## 前言
 
 从下面的表格可以看到，PHP 目前的最新稳定版本是 PHP 7.1。PHP 7 相对于 PHP 5.x 版本增加了大量的新特性，并且重写了大部分的 PHP 引擎，使得 PHP 的运行速度有了极大的提升。
