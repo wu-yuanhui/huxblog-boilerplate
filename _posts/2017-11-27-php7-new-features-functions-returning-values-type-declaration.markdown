@@ -1,8 +1,8 @@
 ---
 
 layout:     post
-title:      "PHP7新特性系列 - 返回值类型声明"
-subtitle:   "来一起学习PHP7吧~"
+title:      "PHP7新特性系列 - 返回值类型声明"
+subtitle:   "来一起学习PHP7吧~"
 date:       2017-11-27 18:00:00
 author:     "伍源辉"
 header-img: "img/2017-11-26.jpg"
