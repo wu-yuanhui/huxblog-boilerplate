@@ -1,0 +1,45 @@
+---
+
+layout:     post
+title:      "优站精选"
+subtitle:   "收集和整理的一些有用的网站，并简单列出网站的主体内容~"
+date:       2017-12-12 20:00:00
+author:     "伍源辉"
+header-img: "img/2017-11-26.jpg"
+tags:
+    - 网站
+
+---
+
+## (start bootstrap)[https://startbootstrap.com/]
+
+#### (主题)[https://startbootstrap.com/template-categories/all/]
+- 后台和仪表板模版
+- 整站模版
+- 着陆页模版
+- 单页模版
+- 组合模板
+- 博客模版
+- 电商网站模版
+- 无样式型模板
+- 导航和菜单模板
+
+#### (资源)[https://startbootstrap.com/bootstrap-resources/]
+- 官方 Bootstrap 资源
+- Bootstrap 模板和主题
+	- Bootstrap 模板超市
+	- Bootstrap 供应商
+	- 免费模版和主题
+	- Bootstrap 作品展
+- Bootstrap 开发者工具
+	- 与主流框架集成
+	- 可视化构建器
+	- 其他开发者工具
+- Bootstrap 插件
+	- 表单插件
+	- 表格插件
+	- 菜单和导航插件
+	- 消息通知插件
+	- 模态框插件
+	- 按钮插件
+	- 其他插件
