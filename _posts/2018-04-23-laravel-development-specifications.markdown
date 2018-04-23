@@ -33,13 +33,13 @@ public function render($request, Exception $exception)
             ? response()->json([
                 'message' => $message,
                 'status'  => $status,
-                // 'file'    => $exception->getFile(),
-                // 'line'    => $exception->getLine(),
+                /* 'file'    => $exception->getFile(), */
+                /* 'line'    => $exception->getLine(), */
             ])
             : redirect()->back();
     }
 
-    // ...
+    /* ... */
 }
 ```
 
@@ -64,11 +64,11 @@ try {
     DB::table('posts')->delete();
     DB::commit();
 } catch(\Illuminate\Database\QueryException $e) {
-    // 此处不能直接通过 $e->getMessage() 抛出 AppException() 异常，
-    // 必须先处理错误信息后再抛出，避免暴露数据库结构和 SQL 语句。
+    /* 此处不能直接通过 $e->getMessage() 抛出 AppException() 异常， */
+    /* 必须先处理错误信息后再抛出，避免暴露数据库结构和 SQL 语句。 */
     
     DB::rollback();
-    // do something...
+    /* do something... */
 } catch (\Throwable $t) {
     DB::rollback();
     throw new AppException($t->getMessage());
